@@ -1,0 +1,8 @@
+# See all files in current directory
+dir
+
+# See only .java files
+dir *.java
+
+# See only .class files  
+dir *.class
